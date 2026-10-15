@@ -1,0 +1,34 @@
+# Environments
+venv/
+.venv/
+env/
+
+# Python byte code and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local configuration & environment variables
+.env
+.env.*
+
+# Local databases and intermediate dumps
+*.db
+*.sqlite
+*.sqlite3
+*_intelligence.json
+profiles.jsonl
+profiles_qa_20.jsonl
+*.log
+scratch/
+
+# Archives and compressed dumps
+*.tar.gz
+*.gz
+
+# OS-specific
+.DS_Store
+Thumbs.db

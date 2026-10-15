@@ -1,0 +1,5 @@
+httpx>=0.28.0
+pydantic>=2.10.0
+typer>=0.15.0
+pytest>=8.0.0
+pymupdf>=1.28.0
